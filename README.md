@@ -45,7 +45,7 @@ Pikachu使用世界上最好的语言PHP进行开发-_-<br>
 ## 切记
 "少就是多,慢就是快"
 
-
+视频教程链接https://www.bilibili.com/video/av67018512
 
 
 
